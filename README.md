@@ -14,11 +14,6 @@
   <!-- <img src="https://github.com/ananyag309/ananyag309/blob/main/69b39f6dab8b07dc4b1e5039054b9f50.gif" href="https://github.com/sp-xd" alt="CoDiNg RocKs"  width="60%"/>
   <br> -->
 
-<br>
-<div align="center">
-  <!-- GitHub Trophies -->
-  <img src="https://github-profile-trophy.vercel.app/?username=ananyag309&theme=darkhub&column=9&margin-w=11" alt="GitHub Trophies" style="width: 100%; display: inline-block;" />
-</div>
 
 <br>
 <h3> Languages, Tools and Technologies 🚀 </h3>
