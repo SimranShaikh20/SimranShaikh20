@@ -48,7 +48,7 @@
 </table>
 <br>
 
-## :zap: Open Source Programs & Achievements
+<!-- ## :zap: Open Source Programs & Achievements -->
 <!-- 
 <div align="center">
   <table>
