@@ -51,7 +51,7 @@
 </table>
 <br>
 
-## :zap: Open Source Programs & Achievements -->
+## :zap: Open Source Programs & Achievements for GSSOC' 24 Extd -->
  
 <div align="center">
   <table>
