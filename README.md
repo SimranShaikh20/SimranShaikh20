@@ -33,14 +33,14 @@
 </tr>
 <tr>
     <td><strong>Backend Development</strong></td>
-    <td><img height=40 src = "https://skillicons.dev/icons?i=nodejs&theme=dark"></td>
+    <td><img height=40 src = "https://skillicons.dev/icons?i=nodejs&theme=dark">
       <td><img height=40 src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Dark.svg">
     </td>
 </tr>
 
 <tr>
     <td><strong>Data Visualiazation </strong></td>
-    <td><img height=40 src = "CC:\Users\Admin\Desktop\Project1\SimranShaikh20\image.png"></td>
+    <td><img height=40 src = "C:\Users\Admin\Desktop\Project1\SimranShaikh20\image.png"></td>
 </tr>
 
 <tr>
