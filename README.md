@@ -34,7 +34,7 @@
 <tr>
     <td><strong>Backend Development</strong></td>
     <td><img height=40 src = "https://skillicons.dev/icons?i=nodejs&theme=dark">
-      <td><img height=40 src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Dark.svg">
+     <img height=40 src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Dark.svg">
     </td>
 </tr>
 
