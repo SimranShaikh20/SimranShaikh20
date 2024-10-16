@@ -40,12 +40,12 @@
 
 <tr>
     <td><strong>Data Visualiazation </strong></td>
-    <td><img height=40 src = "C:\Users\Admin\Desktop\Project1\SimranShaikh20\power-bi-icon.png"></td>
+    <td><img height=40 width =40 src = "C:\Users\Admin\Desktop\Project1\SimranShaikh20\power-bi-icon.png"></td>
 </tr>
 
 <tr>
     <td><strong>Developer Tools</strong></td>
-    <td><img height=40  width= 20 src = "https://skillicons.dev/icons?i=git,github&theme=dark"></td>
+    <td><img height=40 src = "https://skillicons.dev/icons?i=git,github&theme=dark"></td>
 </tr>
 
 </table>
