@@ -11,8 +11,7 @@
 <div align="center" width="50%">
   <p> Passionate For Codeing ! </p>
   <p>Currently Exploring Data Science & Machine Learning !</p>
-  <!-- <img src="https://github.com/ananyag309/ananyag309/blob/main/69b39f6dab8b07dc4b1e5039054b9f50.gif" href="https://github.com/sp-xd" alt="CoDiNg RocKs"  width="60%"/>
-  <br> -->
+
 
 
 <br>
@@ -38,10 +37,10 @@
     </td>
 </tr>
 
-<tr>
+<!-- <tr>
     <td><strong>Data Visualiazation </strong></td>
     <td><img height=40 width =40 src = "C:\Users\Admin\Desktop\Project1\SimranShaikh20\Simran_main\images.jpeg"></td>
-</tr>
+</tr> -->
 
 <tr>
     <td><strong>Developer Tools</strong></td>
