@@ -9,7 +9,7 @@
 </p>
 
 <div align="center" width="50%">
-  <p> Passionate For Coiding ! </p>
+  <p> Passionate For Codeing ! </p>
   <p>Currently Exploring Data Science & Machine Learning !</p>
   <!-- <img src="https://github.com/ananyag309/ananyag309/blob/main/69b39f6dab8b07dc4b1e5039054b9f50.gif" href="https://github.com/sp-xd" alt="CoDiNg RocKs"  width="60%"/>
   <br> -->
@@ -29,16 +29,19 @@
 <tr>
     <td><strong>Frontend Development</strong></td>
     <td><img height=40 src = "https://skillicons.dev/icons?i=html,css,js" ></td>
+  
 </tr>
 <tr>
     <td><strong>Backend Development</strong></td>
     <td><img height=40 src = "https://skillicons.dev/icons?i=nodejs&theme=dark"></td>
+      <td><img height=40 src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Dark.svg">
+    </td>
 </tr>
 
-<!-- <tr>
-    <td><strong>Frameworks</strong></td>
-    <td><img height=40 src = "https://skillicons.dev/icons?i=tailwind&theme=dark"></td>
-</tr> -->
+<tr>
+    <td><strong>Data Visualiazation </strong></td>
+    <td><img height=40 src = "CC:\Users\Admin\Desktop\Project1\SimranShaikh20\image.png"></td>
+</tr>
 
 <tr>
     <td><strong>Developer Tools</strong></td>
