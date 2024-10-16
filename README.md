@@ -40,7 +40,7 @@
 
 <tr>
     <td><strong>Data Visualiazation </strong></td>
-    <td><img height=40 width =40 src = "C:\Users\Admin\Desktop\Project1\SimranShaikh20\power-bi-icon.png"></td>
+    <td><img height=40 width =40 src = "C:\Users\Admin\Desktop\Project1\SimranShaikh20\image.png"></td>
 </tr>
 
 <tr>
