@@ -37,11 +37,11 @@
      <img height=40 src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Dark.svg">
     </td>
 </tr>
-
+<!-- 
 <tr>
     <td><strong>Data Visualiazation </strong></td>
     <td><img height=40 width =40 src = "C:\Users\Admin\Desktop\Project1\SimranShaikh20\image.png"></td>
-</tr>
+</tr> -->
 
 <tr>
     <td><strong>Developer Tools</strong></td>
@@ -60,7 +60,7 @@
         <table>
           <tr align="center">
             <td style="border-right: 1px solid #dddddd; padding: 10px;" width="100">
-              <img src="Simran_main/Share Badge.png" alt="Explorer Badge" width="80" />
+              <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/30715153/334789435-f3045ade-446f-46d8-a730-05f9f2ca9ecf.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20241015%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241015T180855Z&X-Amz-Expires=300&X-Amz-Signature=c1b79736dfc1518bba9041417aa6e86369d299a9dc3695cd647ecc05da99df26&X-Amz-SignedHeaders=host" alt="Explorer Badge" width="80" />
               <br>
               <strong>Explorer Badge</strong>
             </td>
