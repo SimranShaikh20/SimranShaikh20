@@ -9,7 +9,7 @@
 </p>
 
 <div align="center" width="50%">
-  <p> Passionate For Codeing ! </p>
+  <p> Passionate For Coding ! </p>
   <p>Currently Exploring Data Science & Machine Learning !</p>
 
 
