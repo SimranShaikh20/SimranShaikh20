@@ -50,28 +50,18 @@
 </table>
 <br>
 
-## :zap: Open Source Programs & Achievements for GSSOC' 24 Extd -->
- 
-<div align="center">
-  <table>
-    <tr align="center">
-      <td style="padding: 15px;" valign="top" width="50%">
-        <table>
-          <tr align="center">
-            <td style="border-right: 1px solid #dddddd; padding: 10px;" width="100">
-              <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/30715153/334789435-f3045ade-446f-46d8-a730-05f9f2ca9ecf.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20241015%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241015T180855Z&X-Amz-Expires=300&X-Amz-Signature=c1b79736dfc1518bba9041417aa6e86369d299a9dc3695cd647ecc05da99df26&X-Amz-SignedHeaders=host" alt="Explorer Badge" width="80" />
-              <br>
-              <strong>Explorer Badge</strong>
-            </td>
-          </tr>
-        </table>
-      </td>
-    </tr>
-  </table>
+## GSSOC(24) Badges 🪶
+<div style='display:flex; align-items:center; gap: 10px;' align='center'>
+<img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png" width="100px" height="100px" />
+  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/1.png" width="100px" height="100px" />
+  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/2.png" width="100px" height="100px" />
+<!--   <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/3.png" width="100px" height="100px" />
+  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/4.png" width="100px" height="100px" />
+  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/5.png" width="100px" height="100px" />
+  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/6.png" width="100px" height="100px" />
+  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/7.png" width="100px" height="100px" />
+  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/8.png" width="100px" height="100px" /> -->
 </div>
-
-<br>
-
 
 
 
