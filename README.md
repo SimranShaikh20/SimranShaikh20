@@ -7,27 +7,17 @@
     <img src="https://img.shields.io/static/v1?message=GitHub&style=for-the-badge&logo=github&&logoColor=white&label=%20" alt="Simran Shaikh" height='20' width='80'/>  
   </a>
 </p>
-
+<!-- 
 <div align="center" width="50%">
   <p> Passionate For Coding ! </p>
   <p>Currently Exploring Data Science & Machine Learning !</p>
 
 
 
-<br>
+<!-- <br>
 <h3> Languages, Tools and Technologies 🚀 </h3>
 <table>
-    <tr>
-    <td><strong>Programming Languages</strong></td>
-    <td><img height=40 src = "https://skillicons.dev/icons?i=cpp,c,java,python&theme=dark"></td>
-</tr>
-<tr>
-    <td><strong>Database Technologies</strong></td>
-    <td><img height=40 src = "https://skillicons.dev/icons?i=mysql&theme=dark"></td>
-</tr>
-<tr>
-    <td><strong>Frontend Development</strong></td>
-    <td><img height=40 src = "https://skillicons.dev/icons?i=html,css,js" ></td>
+    <tr> 
   
 </tr>
 <tr>
@@ -35,22 +25,22 @@
     <td><img height=40 src = "https://skillicons.dev/icons?i=nodejs&theme=dark">
      <img height=40 src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Dark.svg">
     </td>
-</tr>
+</tr>  -->
 
 <!-- <tr>
     <td><strong>Data Visualiazation </strong></td>
     <td><img height=40 width =40 src = "C:\Users\Admin\Desktop\Project1\SimranShaikh20\Simran_main\images.jpeg"></td>
 </tr> -->
 
-<tr>
+<!-- <tr>
     <td><strong>Developer Tools</strong></td>
     <td><img height=40 src = "https://skillicons.dev/icons?i=git,github&theme=dark"></td>
 </tr>
 
 </table>
-<br>
+<br> -->
 
-## GSSOC(24) Badges 🪶
+<!-- ## GSSOC(24) Badges 🪶
 <table align="center">
   <tr>
     <td><img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" alt="Postman Api Fundamentals Student Expert Badge" /></td>
@@ -61,7 +51,7 @@
     <td><img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px" height="100px" alt="Champion Badge" /></td>
     <td><img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/6.png" width="100px" height="100px" alt="Innovator Badge" /></td>
   </tr>
-</table>
+</table> -->
 
 
 
@@ -76,9 +66,10 @@
   <img align="center" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub Profile" height="40" width="40" />
 </a>
 
-<a href="https://www.cloudskillsboost.google/public_profiles/647c32b6-a2fb-4655-a789-0128defd092f" target="_blank" style="margin-right: 10px;"> 
-  <img align="center" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg"  height="40" width="40" />  
+<a href="https://www.kaggle.com/simmoshaikh" target="_blank" style="margin-right: 10px;"> 
+  <img align="center" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-ar21.svg"  height="40" width="40" />  
 </a>
+
 <br>
 <br>
 
