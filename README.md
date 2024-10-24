@@ -66,9 +66,7 @@
   <img align="center" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub Profile" height="40" width="40" />
 </a>
 
-<a href="https://www.kaggle.com/simmoshaikh" target="_blank" style="margin-right: 10px;"> 
-  <img align="center" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-ar21.svg"  height="40" width="40" />  
-</a>
+
 
 <br>
 <br>
