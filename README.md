@@ -9,7 +9,7 @@
 </p>
 
 -----------------------------------------------------------
-👨🏻‍💻 **About Me** 
+👨🏻‍💻 **About Me** <br>
 ✨ AI/ML Enthusiast | Open-Source Contributor  <br>
 ✨ Currently Working for Web development   <br>
 ✨ I’m looking to collaborate on Open-Source projects. <br>
