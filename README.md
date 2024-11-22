@@ -1,19 +1,21 @@
 <h1 align="center"> Hi there, I'm <a href="https://www.linkedin.com/in/simran-shaikh-39207a23b/">Simran Shaikh</a> </h1>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SimranShaikh20&label=Profile%20views&color=brightgreen&style=flat" alt="SimranShaikh20" />
+</p> 
 
 <!--- Adding Header Elements -->
 <p align="center">
-  <a href="https://topmate.io/simran_shaikh">Contact me</a> -
   <a href="https://www.linkedin.com/in/simran-shaikh-39207a23b/">LinkedIn</a> -
-  <a href="mailto:simranshaikh20@example.com">Email</a>
 </p>
 
 -----------------------------------------------------------
-👨🏻‍💻 **About Me** <img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right"> <br>
-✨ AI/ML Developer | Open-Source Contributor | Data Science Enthusiast <br>
+👨🏻‍💻 **About Me** 
+✨ AI/ML Enthusiast | Open-Source Contributor  <br>
+✨ Currently Working for Web development   <br>
 ✨ I’m looking to collaborate on Open-Source projects. <br>
-📫 How to reach me: [Schedule Call](https://topmate.io/simran_shaikh) <br>
 
-<b>🛠 Tech Stack</b><br>
+
+<!-- <b>🛠 Tech Stack</b><br>
 
 <b>Languages:</b> 
 <img src="https://img.shields.io/badge/-python-437CAC?logo=python&logoColor=white&style=flat">&nbsp;
@@ -37,7 +39,7 @@
 <b>Operating Systems:</b> 
 <img src="https://img.shields.io/badge/-Windows-0F7BCF?logo=Windows&logoColor=white&style=flat">&nbsp;
 <img src="https://img.shields.io/badge/-Linux-EDBD2B?logo=Linux&logoColor=black&style=flat">&nbsp;
-<img src="https://img.shields.io/badge/-Mac-F7F7F7?logo=Macos&logoColor=black&style=flat">&nbsp;
+<img src="https://img.shields.io/badge/-Mac-F7F7F7?logo=Macos&logoColor=black&style=flat">&nbsp; -->
 
 <br>
 
@@ -49,9 +51,6 @@
   <img height="155em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=SimranShaikh20&theme=github_dark" alt="Stats" class="center" />
 <br>
 
-## :zap: Open Source Programs & Achievements
-
-[![An image of @SimranShaikh20's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/SimranShaikh20)](https://holopin.io/@SimranShaikh20)
 
 <br>
 ## GSSOC(24) Badges 🪶
@@ -64,10 +63,17 @@
     <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="100px" height="100px" />
     <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px" height="100px" />
     <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/6.png" width="105px" height="105px" />
-    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/7.png" width="100px" height="100px" />
-    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/8.png" width="100px" height="100px" />
     <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Code%20Luminary.png" width="105px" height="105px" />
-    <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Git%20Explorer.png" width="100px" height="100px" />
-    <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Pull%20Expert.png" width="100px" height="100px" />
+   
   </a>
 </div>
+
+## 🌐 Connect with Me 
+<p align="center">
+  <a href="https://www.linkedin.com/in/simran-shaikh-39207a23b/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn Profile" width="40" />
+  </a>
+  <a href="https://github.com/SimranShaikh20" target="_blank">
+    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub Profile" width="40" />
+  </a>
+</p>
