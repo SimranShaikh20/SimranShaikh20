@@ -46,9 +46,9 @@
 <!--stats-->
 <summary><b>⚙️ GitHub Analytics</b></summary>
 <a href="https://github.com/SimranShaikh20">
-   <img height="155em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SimranShaikh20&theme=github_dark" alt="Simran Shaikh github stats" />
-   <img height="155em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SimranShaikh20&theme=github_dark" alt="My Top Languages" />
-  <img height="155em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=SimranShaikh20&theme=github_dark" alt="Stats" class="center" />
+   <img height="155em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SimranShaikh20&theme=github_white" alt="Simran Shaikh github stats" />
+   <img height="155em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SimranShaikh20&theme=github_white" alt="My Top Languages" />
+  <img height="155em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=SimranShaikh20&theme=github_white" alt="Stats" class="center" />
 <br>
 
 
@@ -75,5 +75,8 @@
   </a>
   <a href="https://github.com/SimranShaikh20" target="_blank">
     <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub Profile" width="40" />
+  </a>
+  <a href="https://www.kaggle.com/simmoshaikh" target="_blank">
+    <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/kaggle.svg" alt="GitHub Profile" width="40" />
   </a>
 </p>
