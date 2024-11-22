@@ -46,10 +46,11 @@
 <!--stats-->
 <summary><b>⚙️ GitHub Analytics</b></summary>
 <a href="https://github.com/SimranShaikh20">
-   <img height="155em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SimranShaikh20&theme=github_dark" alt="Simran Shaikh github stats" />
-   <img height="155em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SimranShaikh20&theme=github_dark" alt="My Top Languages" />
-  <img height="155em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=SimranShaikh20&theme=github_dark" alt="Stats" class="center" />
-<br>
+   <img height="155em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SimranShaikh20&theme=default" alt="Simran Shaikh github stats" />
+   <img height="155em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SimranShaikh20&theme=default" alt="My Top Languages" />
+   <img height="155em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=SimranShaikh20&theme=default" alt="Stats" class="center" />
+</a>
+
 
 
 <br>
