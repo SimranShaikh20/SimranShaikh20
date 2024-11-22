@@ -80,4 +80,7 @@
   <a href="https://www.kaggle.com/simmoshaikh" target="_blank">
     <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/kaggle.svg" alt="GitHub Profile" width="40" />
   </a>
+   <a href="https://devpost.com/SimranShaikh20" target="_blank">
+    <img src="https://www.svgrepo.com/show/330293/devpost.svg" alt="GitHub Profile" width="40" />
+  </a>
 </p>
