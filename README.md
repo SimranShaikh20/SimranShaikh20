@@ -8,7 +8,7 @@
 ## 👩‍💻 About Me
 
 ✨ **AI/ML Enthusiast** | **Open-Source Contributor**<br>
-✨ Passionate about **Web Development**<br>
+✨ Currently working for  **Web Development**<br>
 ✨ Excited to **collaborate** on open-source projects<br>
 ✨ Dedicated to **continuous learning** and sharing knowledge<br>
 
@@ -33,7 +33,11 @@
   <img src="https://img.shields.io/badge/Scikit--Learn-F09437?logo=scikit-learn&logoColor=white&style=flat" alt="Scikit-Learn" />
   <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white&style=flat" alt="Django" />
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white&style=flat" alt="Bootstrap" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?logo=matplotlib&logoColor=white&style=flat" alt="Matplotlib" />
+  <img src="https://img.shields.io/badge/Seaborn-2E4053?logo=seaborn&logoColor=white&style=flat" alt="Seaborn" />
+  <img src="https://img.shields.io/badge/LangChain-0F4C81?logo=langchain&logoColor=white&style=flat" alt="LangChain" />
 </p>
+
 
 ### ⚙️ Tools and Platforms:
 <p>
@@ -46,16 +50,11 @@
 ### 💻 Operating Systems:
 <p>
   <img src="https://img.shields.io/badge/Windows-0F7BCF?logo=windows&logoColor=white&style=flat" alt="Windows" />
-  <img src="https://img.shields.io/badge/Linux-EDBD2B?logo=linux&logoColor=black&style=flat" alt="Linux" />
-  <img src="https://img.shields.io/badge/MacOS-F7F7F7?logo=macos&logoColor=black&style=flat" alt="MacOS" />
+
 </p>
 
 ---
 
-## 🌟 Recent Projects
-- **[Predictive Calc](https://github.com/SimranShaikh20/PredictiveCalc):** A Python-Streamlit application integrating machine learning models for personalized predictions.  
-- **[CodeNexus Blog](https://github.com/SimranShaikh20/CodeNexus):** A blogging platform with modals for creating and displaying post details.  
-- **[Credit Card Fraud Detection](https://github.com/SimranShaikh20/FraudDetection):** Logistic regression model for identifying fraudulent transactions.
 
 ---
 
@@ -99,10 +98,5 @@
   <a href="https://github.com/SimranShaikh20" target="_blank">
     <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub Profile" width="40" />
   </a>
-  <a href="https://www.kaggle.com/simmoshaikh" target="_blank">
-    <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/kaggle.svg" alt="Kaggle Profile" width="40" />
-  </a>
-  <a href="https://devpost.com/SimranShaikh20" target="_blank">
-    <img src="https://www.svgrepo.com/show/330293/devpost.svg" alt="DevPost Profile" width="40" />
-  </a>
+ 
 </p>
