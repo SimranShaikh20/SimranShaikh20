@@ -78,10 +78,6 @@
 ## ⚙️ GitHub Analytics  
 <a href="https://github.com/SimranShaikh20">
   <img height="155em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SimranShaikh20&theme=github" alt="Profile Details" />
-  <img height="155em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SimranShaikh20&theme=github" alt="Top Languages" />
-  <img height="155em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SimranShaikh20&theme=github" alt="Most Commit Languages" />
-  <img height="155em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=SimranShaikh20&theme=github" alt="Stats" />
-  <img height="155em" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SimranShaikh20&theme=github&utcOffset=5" alt="Productive Time" />
   <img height="155em" src="https://github-readme-streak-stats.herokuapp.com/?user=SimranShaikh20&theme=github" alt="GitHub Streaks" />
   <img height="155em" src="https://github-readme-stats.vercel.app/api?username=SimranShaikh20&show_icons=true&include_all_commits=true&theme=github" alt="GitHub Stats" />
  
