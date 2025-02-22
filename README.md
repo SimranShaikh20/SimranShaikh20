@@ -17,8 +17,7 @@
 ## 💼 Internship Experience
 
 ### **Web Scraping Intern**  
-**Company Name** - *Location*  
-**Duration**: *Start Date* - *End Date*  
+ 
 
 - Developed and implemented web scraping scripts using **Python** and libraries like **BeautifulSoup** and **Scrapy** to extract data from various websites.
 - Cleaned and processed scraped data using **Pandas** and **NumPy** for analysis and storage.
