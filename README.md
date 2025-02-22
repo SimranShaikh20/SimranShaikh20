@@ -117,18 +117,5 @@
 
 ---
 
-<!-- ## 📝 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- [How to Get Started with Open Source](https://example.com)
-- [Introduction to Machine Learning](https://example.com)
-<!-- BLOG-POST-LIST:END -->
-
---- -->
-
-
 ---
 
-## 💬 Fun Fact
-I love solving puzzles and playing chess in my free time! ♟️
-
----
