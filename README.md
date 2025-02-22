@@ -14,6 +14,32 @@
 
 ---
 
+## 💼 Internship Experience
+
+### **Web Scraping Intern**  
+**Company Name** - *Location*  
+**Duration**: *Start Date* - *End Date*  
+
+- Developed and implemented web scraping scripts using **Python** and libraries like **BeautifulSoup** and **Scrapy** to extract data from various websites.
+- Cleaned and processed scraped data using **Pandas** and **NumPy** for analysis and storage.
+- Automated data extraction workflows to improve efficiency and reduce manual effort.
+- Collaborated with the team to analyze data and generate insights for business decisions.
+- Gained hands-on experience in handling **APIs**, **HTML/CSS**, and **XPath** for data extraction.
+- Ensured compliance with website **robots.txt** policies and ethical scraping practices.
+
+**Technologies Used**:  
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/BeautifulSoup-4.9.3-green?logo=beautifulsoup&logoColor=white" alt="BeautifulSoup" />
+  <img src="https://img.shields.io/badge/Scrapy-1.8.0-orange?logo=scrapy&logoColor=white" alt="Scrapy" />
+  <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" alt="CSS3" />
+</p>
+
+--------
+
 ## 🛠️ Tech Stack 
 
 ### 🚀 Programming Languages:
@@ -92,19 +118,14 @@
 
 ---
 
-## 📝 Latest Blog Posts
+<!-- ## 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [How to Get Started with Open Source](https://example.com)
 - [Introduction to Machine Learning](https://example.com)
 <!-- BLOG-POST-LIST:END -->
 
----
+--- -->
 
-## 🎯 Goals for 2024
-- Contribute to 10+ open-source projects
-- Learn and implement advanced AI/ML techniques
-- Build and deploy 5+ web applications
-- Write 12+ technical blog posts
 
 ---
 
@@ -112,7 +133,3 @@
 I love solving puzzles and playing chess in my free time! ♟️
 
 ---
-
-<p align="center">
-  <img src="https://github.com/SimranShaikh20/SimranShaikh20/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
