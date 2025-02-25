@@ -6,6 +6,8 @@
 ---
 
 ## 👩‍💻 About Me
+  [![committers.top badge](https://user-badge.committers.top/india/SimranShaikh20.svg)](https://committers.top/india.html)
+
 
 ✨ **AI/ML Enthusiast** | **Open-Source Contributor**<br>
 ✨ Currently working on **Web Development**<br>
