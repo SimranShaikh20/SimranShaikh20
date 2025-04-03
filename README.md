@@ -41,7 +41,6 @@
 --------
 
 ## 🛠️ Tech Stack 
-
 ### 🚀 Programming Languages:
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python" />
@@ -62,6 +61,7 @@
   <img src="https://img.shields.io/badge/Matplotlib-11557C?logo=matplotlib&logoColor=white" alt="Matplotlib" />
   <img src="https://img.shields.io/badge/Seaborn-2E4053?logo=seaborn&logoColor=white" alt="Seaborn" />
   <img src="https://img.shields.io/badge/LangChain-0F4C81?logo=langchain&logoColor=white" alt="LangChain" />
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" alt="React.js" />
 </p>
 
 ### ⚙️ Tools and Platforms:
@@ -71,6 +71,7 @@
   <img src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white" alt="Jupyter Notebook" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" alt="MySQL" />
 </p>
+
 
 ### 💻 Operating Systems:
 <p>
