@@ -41,6 +41,7 @@
 --------
 
 ## 🛠️ Tech Stack 
+
 ### 🚀 Programming Languages:
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python" />
@@ -56,12 +57,17 @@
   <img src="https://img.shields.io/badge/Numpy-013243?logo=numpy&logoColor=white" alt="NumPy" />
   <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white" alt="Pandas" />
   <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
-  <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white" alt="Django" />
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white" alt="Bootstrap" />
   <img src="https://img.shields.io/badge/Matplotlib-11557C?logo=matplotlib&logoColor=white" alt="Matplotlib" />
   <img src="https://img.shields.io/badge/Seaborn-2E4053?logo=seaborn&logoColor=white" alt="Seaborn" />
-  <img src="https://img.shields.io/badge/LangChain-0F4C81?logo=langchain&logoColor=white" alt="LangChain" />
+  <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white" alt="Django" />
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white" alt="Bootstrap" />
   <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" alt="React.js" />
+</p>
+
+### 🤖 AI/LLM Tools & Concepts:
+<p>
+  <img src="https://img.shields.io/badge/Prompt%20Engineering-800080?logo=openai&logoColor=white" alt="Prompt Engineering" />
+  <img src="https://img.shields.io/badge/LangChain-0F4C81?logo=langchain&logoColor=white" alt="LangChain" />
 </p>
 
 ### ⚙️ Tools and Platforms:
