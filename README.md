@@ -75,6 +75,7 @@
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?logo=visual-studio-code&logoColor=white" alt="VS Code" />
   <img src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white" alt="Jupyter Notebook" />
+  <img src="https://img.shields.io/badge/Google_Colab-F9AB00?logo=googlecolab&logoColor=black" alt="Google Colab" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" alt="MySQL" />
 </p>
 
