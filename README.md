@@ -68,7 +68,9 @@
 <p>
   <img src="https://img.shields.io/badge/Prompt%20Engineering-800080?logo=openai&logoColor=white" alt="Prompt Engineering" />
   <img src="https://img.shields.io/badge/LangChain-0F4C81?logo=langchain&logoColor=white" alt="LangChain" />
+  <img src="https://img.shields.io/badge/RAG-FF6F61?logo=semanticweb&logoColor=white" alt="RAG (Retrieval-Augmented Generation)" />
 </p>
+
 
 ### ⚙️ Tools and Platforms:
 <p>
