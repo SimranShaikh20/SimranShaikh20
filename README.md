@@ -1,10 +1,11 @@
 <h1 align="center">Hi there, I'm <a href="https://www.linkedin.com/in/simran-shaikh-39207a23b/">Simran Shaikh</a> 👋</h1>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=SimranShaikh20&label=Profile%20views&color=brightgreen&style=flat" alt="SimranShaikh20" />
-</p>
-<a href="https://github.com/SimranShaikh20?tab=followers">
+  <a href="https://github.com/SimranShaikh20?tab=followers">
     <img src="https://img.shields.io/github/followers/SimranShaikh20?label=Followers&style=social" alt="GitHub Followers">
   </a>
+</p>
+
 
 ---
 
@@ -23,8 +24,8 @@
 - **Postman API Expert** Certification
 - **Hacktoberfest 2023** Participant
 
+---
 
---
 ## 💼 Internship Experience
 
 ### **Web Scraping Intern**  
@@ -119,17 +120,18 @@
 
 <div align="center">
 
-  ![Simran's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SimranShaikh20&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
+  ![Simran's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SimranShaikh20&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true)
 
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SimranShaikh20&layout=compact&theme=radical&hide_border=true)
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SimranShaikh20&layout=compact&theme=default&hide_border=true)
 
-  ![GitHub Streak](https://streak-stats.demolab.com/?user=SimranShaikh20&theme=radical&hide_border=true)
+  ![GitHub Streak](https://streak-stats.demolab.com/?user=SimranShaikh20&theme=default&hide_border=true)
 
-  ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=SimranShaikh20&theme=radical&hide_border=true&area=true)
+  ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=SimranShaikh20&theme=github-light&hide_border=true&area=true)
 
   ![Metrics](https://metrics.lecoq.io/SimranShaikh20?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=Asia%2FKolkata)
 
 </div>
+
 
 
 ---
