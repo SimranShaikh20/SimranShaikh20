@@ -54,6 +54,8 @@
 
 ## 🚀 Latest Project
 
+Check out my latest project: [**Smart-Resume-Assistant**](https://github.com/SimranShaikh20/Smart-Resume-Assistant)
+
 Check out my latest project: [**AI-Powered-Grammar-Spell-Checker**](https://github.com/SimranShaikh20/AI-Powered-Grammar-Spell-Checker)
 
 --------
