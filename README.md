@@ -60,6 +60,8 @@ Check out my latest project: [**AI-Powered-Grammar-Spell-Checker**](https://gith
 
 Check out my latest project: [**Smart-Resume-Assistant**](https://github.com/SimranShaikh20/Smart-Resume-Assistant)
 
+Check out my latest project: [**Smart-Resume-Assistant**](https://github.com/SimranShaikh20/Smart-Interview-Bot)
+
 
 --------
 
