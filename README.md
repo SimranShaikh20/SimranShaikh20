@@ -54,6 +54,8 @@
 
 ## 🚀 Latest Project
 
+Check out my latest project: [**SEO-InsightHub**](https://github.com/SimranShaikh20/SEO-InsightHub-Powered-by-Agno-AI-Agent-Framework)
+
 Check out my latest project: [**AI-Powered-Recruitment-Assistant**](https://github.com/SimranShaikh20/AI-Powered-Recruitment-Assistant)
 
 Check out my latest project: [**AI-Powered-Grammar-Spell-Checker**](https://github.com/SimranShaikh20/AI-Powered-Grammar-Spell-Checker)
@@ -143,7 +145,7 @@ Check out my latest project: [**Smart-Interview-Bot**](https://github.com/Simran
 
   ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=SimranShaikh20&theme=github-light&hide_border=true&area=true)
 
-  ![Metrics](https://metrics.lecoq.io/SimranShaikh20?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=Asia%2FKolkata)
+
 
 </div>
 
