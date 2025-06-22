@@ -130,12 +130,17 @@ Check out my latest project: [**Smart-Interview-Bot**](https://github.com/Simran
     <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/6.png" width="105px" height="105px" />
   </a>
 </div>
+---
+
 ## 🏅 Hackathon Badges
-<div style='display:flex; align-items:center; gap: 10px;' align='center'>
-    <img src="https://www.credly.com/badges/925d2299-a1fc-4f97-a3ac-03111c207349/public_url" width="100px" height="100px" />
- 
-  </a>
+
+<div style="display: flex; align-items: center; gap: 10px;" align="center">
+    <img src="https://via.placeholder.com/100" alt="Hackathon Badge" width="100px" height="100px" />
+    <a href="https://www.credly.com/badges/925d2299-a1fc-4f97-a3ac-03111c207349/public_url" target="_blank">
+        View Badge on Credly
+    </a>
 </div>
+
 ---
 
 ## 📈 GitHub Stats & Metrics
