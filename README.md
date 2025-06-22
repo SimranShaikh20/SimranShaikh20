@@ -135,7 +135,7 @@ Check out my latest project: [**Smart-Interview-Bot**](https://github.com/Simran
 ## 🏅 Hackathon Badges
 
 <div style="display: flex; align-items: center; gap: 10px;" align="center">
-    <img src="https://via.placeholder.com/100" alt="Hackathon Badge" width="100px" height="100px" />
+    <img src="https://i.postimg.cc/brXt7HYn/badge.jpg" alt="AI Agents Hackathon" width="100px" height="100px" />
     <a href="https://www.credly.com/badges/925d2299-a1fc-4f97-a3ac-03111c207349/public_url" target="_blank">
         View Badge on Credly
     </a>
