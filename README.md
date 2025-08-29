@@ -7,11 +7,8 @@
 </p>
 
 <p align="center">
-  <a href="https://committer.top/india" target="_blank">
-    <img src="https://user-badge.committer.top/india/SimranShaikh20.svg" alt="committer.top India badge" />
-  </a>
-  <a href="https://committer.top/planet" target="_blank">
-    <img src="https://user-badge.committer.top/planet/SimranShaikh20.svg" alt="committer.top Global badge" />
+  <a href="https://committers.top/india#SimranShaikh20" target="_blank">
+    <img src="https://user-badge.committers.top/india/SimranShaikh20.svg" alt="committers.top badge" />
   </a>
 </p>
 
