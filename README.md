@@ -177,9 +177,7 @@ Check out my latest project: [**Smart-Interview-Bot**](https://github.com/Simran
   <a href="mailto:your-email@example.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email" width="100" />
   </a>
-   <a href="https://app.readytensor.ai/users/msusimran20" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" alt="Ready Tensor Profile" width="60" />
-  </a>
+ 
 </p>
 
 
