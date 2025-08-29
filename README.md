@@ -6,12 +6,6 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="https://committers.top/india#SimranShaikh20" target="_blank">
-    <img src="https://user-badge.committers.top/india/SimranShaikh20.svg" alt="committers.top badge" />
-  </a>
-</p>
-
 ---
 
 ## 👩‍💻 About Me
