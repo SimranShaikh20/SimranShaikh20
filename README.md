@@ -6,9 +6,6 @@
   <img align="right" src="https://komarev.com/ghpvc/?username=SimranShaikh20&label=Visitors&color=brightgreen&style=flat" alt="Profile views counter">
 </h1>
 
-<div>
-  <img src="URL_OF_FEMALE_DEVELOPER_GIF.gif" width="300px" align="right" alt="Female Developer Animation"/>
-</div>
 
 
 
@@ -96,7 +93,8 @@
 
 - 🏅 **Global Agent Hackathon Winner**
 - 🥈 **Bhashathon (IIT Bombay)** — 2nd Place  
-- 🥇 **Academic Excellence**, 1st Rank (MSU)  
+- 🥇 **Academic Excellence**, 1st Rank (Diploma)
+- 🥈 **ACPC Rank**, 7th Rank (GTU) 
 - ⚡ **Gen AI Academy Certification** by Google Cloud & Hack2Skill  
 - 👩‍💻 **50+ Open Source Contributions** on GitHub  
 
