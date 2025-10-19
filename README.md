@@ -1,189 +1,134 @@
-<h1 align="center">Hi there, I'm <a href="https://www.linkedin.com/in/simran-shaikh-39207a23b/">Simran Shaikh</a> 👋</h1>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SimranShaikh20&label=Profile%20views&color=brightgreen&style=flat" alt="SimranShaikh20" />
-  <a href="https://github.com/SimranShaikh20?tab=followers">
-    <img src="https://img.shields.io/github/followers/SimranShaikh20?label=Followers&style=social" alt="GitHub Followers">
-  </a>
-</p>
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/43a8141c-1e7d-4754-b6d7-39af6b79864e" alt="Simran Shaikh GitHub Banner" width="100%">
+</div>
+
+<h1>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Wave" width="30px"/>
+  Hi, I'm <a href="https://linkedin.com/in/simran-shaikh-39207a23b/">Simran Shaikh</a>!
+  <img align="right" src="https://komarev.com/ghpvc/?username=SimranShaikh20&label=Visitors&color=brightgreen&style=flat" alt="Profile views counter">
+</h1>
+
+<div>
+  <img src="https://github.com/user-attachments/assets/754f7f48-57b4-4b8f-9054-b21ef7803698" width="300px" align="right" alt="Animation developer gif"/>
+</div>
+
+### <div><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="25px"/> Building with AI like it’s 2050 — debugging like it’s 1999 ⚡</div>
+
+<ul>
+  <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20Showing%20Asia-Australia.png" width="22px"/> Based in <strong>Vadodara, Gujarat, India</strong></li>
+  <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/E-Mail.png" width="22px"/> Reach me at: <a href="mailto:shaikhsimran20.2003@gmail.com"><strong>shaikhsimran20.2003@gmail.com</strong></a></li>
+  <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Tear-Off%20Calendar.png" width="22px"/> <strong>B.E. Computer Science (MSU, CGPA: 8.21)</strong></li>
+  <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Student.png" width="22px"/> <strong>Diploma (Computer Engineering, CGPA: 9.88)</strong></li>
+</ul>
 
 ---
 
 ## 👩‍💻 About Me
 
-
-✨ **AI/ML Enthusiast** | **Open-Source Contributor**<br>
-✨ Currently working on **Web Development**<br>
-✨ Excited to **collaborate** on open-source projects<br>
-✨ Dedicated to **continuous learning** and sharing knowledge<br>
-
----
-## 🏆 Achievements & Certifications
-
-- **GirlScript Summer of Code 2024** Contributor
-- **Postman API Expert** Certification
-- **Hacktoberfest 2023** Participant
+✨ AI/ML Enthusiast | Open-Source Contributor | Developer of AI Automations  
+✨ Passionate about Generative AI, Full-Stack Engineering & Data Intelligence  
+✨ Currently exploring prompt-based workflow systems using Groq & LangChain  
+✨ Strong advocate for ethical tech, open collaboration, and lifelong learning  
 
 ---
 
-## 💼 Internship Experience
+## 💼 Experience
 
-### **Web Scraping Intern**  
- 
+### **Web Scraping Intern — Keshav Encon** *(Jun 2024 – Feb 2025)*  
+- Designed scalable scraping workflows using **Python**, **BeautifulSoup**, and **Scrapy**  
+- Automated pipelines, reducing manual data collection efforts by **60%**  
+- Integrated **REST APIs**, HTML parsers, and advanced **XPath** filters  
+- Implemented **Pandas/NumPy** for deep data analysis and transformation
 
-- Developed and implemented web scraping scripts using **Python** and libraries like **BeautifulSoup** and **Scrapy** to extract data from various websites.
-- Cleaned and processed scraped data using **Pandas** and **NumPy** for analysis and storage.
-- Automated data extraction workflows to improve efficiency and reduce manual effort.
-- Collaborated with the team to analyze data and generate insights for business decisions.
-- Gained hands-on experience in handling **APIs**, **HTML/CSS**, and **XPath** for data extraction.
-- Ensured compliance with website **robots.txt** policies and ethical scraping practices.
-
-**Technologies Used**:  
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/BeautifulSoup-4.9.3-green?logo=beautifulsoup&logoColor=white" alt="BeautifulSoup" />
-  <img src="https://img.shields.io/badge/Scrapy-1.8.0-orange?logo=scrapy&logoColor=white" alt="Scrapy" />
-  <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" alt="CSS3" />
-</p>
-
---------
-
-
-## 🚀 Latest Project
-
-Check out my latest project: [**SEO-InsightHub**](https://github.com/SimranShaikh20/SEO-InsightHub-Powered-by-Agno-AI-Agent-Framework)
-
-Check out my latest project: [**AI-Powered-Recruitment-Assistant**](https://github.com/SimranShaikh20/AI-Powered-Recruitment-Assistant)
-
-Check out my latest project: [**AI-Powered-Grammar-Spell-Checker**](https://github.com/SimranShaikh20/AI-Powered-Grammar-Spell-Checker)
-
-Check out my latest project: [**Smart-Resume-Assistant**](https://github.com/SimranShaikh20/Smart-Resume-Assistant)
-
-Check out my latest project: [**Smart-Interview-Bot**](https://github.com/SimranShaikh20/Smart-Interview-Bot)
-
-
---------
-
-
-## 🛠️ Tech Stack 
-
-### 🚀 Programming Languages:
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript" />
-</p>
-
-### 📚 Frameworks and Libraries:
-<p>
-  <img src="https://img.shields.io/badge/Numpy-013243?logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?logo=matplotlib&logoColor=white" alt="Matplotlib" />
-  <img src="https://img.shields.io/badge/Seaborn-2E4053?logo=seaborn&logoColor=white" alt="Seaborn" />
-  <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white" alt="Django" />
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white" alt="Bootstrap" />
-  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" alt="React.js" />
-</p>
-
-### 🤖 AI/LLM Tools & Concepts:
-<p>
-  <img src="https://img.shields.io/badge/Prompt%20Engineering-800080?logo=openai&logoColor=white" alt="Prompt Engineering" />
-  <img src="https://img.shields.io/badge/LangChain-0F4C81?logo=langchain&logoColor=white" alt="LangChain" />
-  <img src="https://img.shields.io/badge/RAG-FF6F61?logo=semanticweb&logoColor=white" alt="RAG (Retrieval-Augmented Generation)" />
-  <img src="https://img.shields.io/badge/Groq-00BFFF?logo=groq&logoColor=white" alt="Groq" />
-</p>
-
-
-### ⚙️ Tools and Platforms:
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?logo=visual-studio-code&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white" alt="Jupyter Notebook" />
-  <img src="https://img.shields.io/badge/Google_Colab-F9AB00?logo=googlecolab&logoColor=black" alt="Google Colab" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" alt="MySQL" />
-</p>
-
-
-### 💻 Operating Systems:
-<p>
-  <img src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white" alt="Windows" />
-</p>
+### **Open Source Contributor — GSSoC Extended (Top 5%)** *(Oct 2024 – Nov 2024)*  
+- Contributed to **ML pipeline optimization** & data processing repositories  
+- Ranked among the **Top 5%** of 7000+ contributors globally  
+- Collaborated via Git and improved code quality through systematic PR reviews  
 
 ---
 
-## 🏅 GSSOC 2024 Badges
-<div style='display:flex; align-items:center; gap: 10px;' align='center'>
-  <a href="https://gssoc.girlscript.tech/leaderboard">
-    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
-    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px" />
-    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="100px" height="100px" />
-    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="100px" height="100px" />
-    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="100px" height="100px" />
-    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px" height="100px" />
-    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/6.png" width="105px" height="105px" />
-  </a>
-</div>
----
+## 🚀 Featured Projects
 
-## 🏅 Hackathon Badges
-
-<div style="display: flex; flex-direction: column; align-items: center; justify-content: center; text-align: center;">
-    <img src="https://i.postimg.cc/brXt7HYn/badge.jpg" alt="AI Agents Hackathon" width="100px" height="100px" />
-    <div>
-    <a href="https://www.credly.com/badges/925d2299-a1fc-4f97-a3ac-03111c207349/public_url" target="_blank">
-        View Badge on Credly
-    </a>
-    </div>
-</div>
-
-
+- [**Support Agent Automation**](#) — Zapier + AI-Powered WhatsApp API assistant for handling student & learner queries  
+- [**SEO InsightHub**](https://github.com/SimranShaikh20/SEO-InsightHub-Powered-by-Agno-AI-Agent-Framework) — AI-driven SEO auditor using Groq LLM and Agno APIs  
+- [**LinkedIn Content Generator**](#) — n8n + Mixtral workflow for automated post generation for professionals  
+- [**AI-Powered Grammar Checker**](https://github.com/SimranShaikh20/AI-Powered-Grammar-Spell-Checker) — Advanced prompt-based grammar correction model  
+- [**Research Assistant**](#) — Intelligent LLM-powered multi-modal summarizer for research insights  
 
 ---
 
-## 📈 GitHub Stats & Metrics
+## 🧠 Technical Skills
+
+### 🌍 Programming & Databases  
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python)
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=java)
+![C](https://img.shields.io/badge/C-27338e?logo=c)
+![SQL](https://img.shields.io/badge/SQL-02569B)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb)
+
+### 🤖 AI / LLM / ML  
+![LLaMA](https://img.shields.io/badge/LLaMA-800080?logo=meta)
+![Groq Cloud](https://img.shields.io/badge/Groq_Cloud-00BFFF)
+![LangChain](https://img.shields.io/badge/LangChain-0F4C81)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-9B59B6)
+![RAG](https://img.shields.io/badge/RAG-FF6F61)
+![Mixtral](https://img.shields.io/badge/Mixtral-A020F0)
+![CNN/RNN](https://img.shields.io/badge/Neural_Nets-3498DB)
+
+### ☁️ Cloud, DevOps & No-code  
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?logo=googlecloud)
+![Groq](https://img.shields.io/badge/Groq_API-FF4500)
+![CI/CD](https://img.shields.io/badge/CI/CD-181717)
+![Zapier](https://img.shields.io/badge/Zapier-EA580C?logo=zapier)
+![n8n](https://img.shields.io/badge/n8n-2E7D32?logo=n8n)
+
+### 💻 Tools, Frameworks & UI  
+![React](https://img.shields.io/badge/React-61DAFB?logo=react)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B)
+![Colab](https://img.shields.io/badge/Google_Colab-F9AB00?logo=googlecolab)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC)
+![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github)
+
+---
+
+## 🎖 Honors & Certifications
+
+- 🏅 **Global Agent Hackathon Winner**
+- 🥈 **Bhashathon (IIT Bombay)** — 2nd Place  
+- 🥇 **Academic Excellence**, 1st Rank (MSU)  
+- ⚡ **Gen AI Academy Certification** by Google Cloud & Hack2Skill  
+- 💡 **200+ DSA Problems Solved** on [LeetCode](https://leetcode.com/)  
+- 👩‍💻 **50+ Open Source Contributions** on GitHub  
+
+---
+
+## 🧩 GitHub Analytics
 
 <div align="center">
-
-  ![Simran's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SimranShaikh20&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true)
-
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SimranShaikh20&layout=compact&theme=default&hide_border=true)
-
-  ![GitHub Streak](https://streak-stats.demolab.com/?user=SimranShaikh20&theme=default&hide_border=true)
-
-  ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=SimranShaikh20&theme=github-light&hide_border=true&area=true)
-
-
-
+  <img src="https://github-readme-stats.vercel.app/api?username=SimranShaikh20&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SimranShaikh20&layout=compact&theme=transparent&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=SimranShaikh20&theme=transparent&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SimranShaikh20&theme=github-light&area=true&hide_border=true" />
 </div>
-
-
 
 ---
 
 ## 🌐 Connect with Me
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/simran-shaikh-39207a23b/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn" width="100" />
-  </a>
-  <a href="https://github.com/SimranShaikh20" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" alt="GitHub" width="100" />
-  </a>
-  <a href="mailto:your-email@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email" width="100" />
-  </a>
- 
+  <a href="https://linkedin.com/in/simran-shaikh-39207a23b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"></a>
+  <a href="https://github.com/SimranShaikh20"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"></a>
+  <a href="mailto:shaikhsimran20.2003@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"></a>
+  <a href="https://leetcode.com/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode"></a>
 </p>
 
-
-
-
----
-
----
-
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme:dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme:light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
