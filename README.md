@@ -7,8 +7,9 @@
 </h1>
 
 <div>
-  <img src="https://github.com/user-attachments/assets/754f7f48-57b4-4b8f-9054-b21ef7803698" width="300px" align="right" alt="Animation developer gif"/>
+  <img src="URL_OF_FEMALE_DEVELOPER_GIF.gif" width="300px" align="right" alt="Female Developer Animation"/>
 </div>
+
 
 
 <ul>
