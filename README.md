@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/43a8141c-1e7d-4754-b6d7-39af6b79864e" alt="Simran Shaikh GitHub Banner" width="100%">
-</div>
+
 
 <h1>
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Wave" width="30px"/>
@@ -53,7 +51,7 @@
 - [**SEO InsightHub**](https://github.com/SimranShaikh20/SEO-InsightHub-Powered-by-Agno-AI-Agent-Framework) — AI-driven SEO auditor using Groq LLM and Agno APIs  
 - [**LinkedIn Content Generator**](#) — n8n + Mixtral workflow for automated post generation for professionals  
 - [**AI-Powered Grammar Checker**](https://github.com/SimranShaikh20/AI-Powered-Grammar-Spell-Checker) — Advanced prompt-based grammar correction model  
-- [**Research Assistant**](#) — Intelligent LLM-powered multi-modal summarizer for research insights  
+ 
 
 ---
 
@@ -100,7 +98,6 @@
 - 🥈 **Bhashathon (IIT Bombay)** — 2nd Place  
 - 🥇 **Academic Excellence**, 1st Rank (MSU)  
 - ⚡ **Gen AI Academy Certification** by Google Cloud & Hack2Skill  
-- 💡 **200+ DSA Problems Solved** on [LeetCode](https://leetcode.com/)  
 - 👩‍💻 **50+ Open Source Contributions** on GitHub  
 
 ---
@@ -122,7 +119,6 @@
   <a href="https://linkedin.com/in/simran-shaikh-39207a23b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"></a>
   <a href="https://github.com/SimranShaikh20"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"></a>
   <a href="mailto:shaikhsimran20.2003@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"></a>
-  <a href="https://leetcode.com/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode"></a>
 </p>
 
 <div align="center">
