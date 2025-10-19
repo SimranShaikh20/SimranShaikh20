@@ -92,9 +92,9 @@
 ## 🎖 Honors & Certifications
 
 - 🏅 **Global Agent Hackathon Winner**
-- 🥈 **Bhashathon (IIT Bombay)** — 2nd Place  
+- 🥈 **Bhashathon (IIT Bombay)** — 2nd Place
+- 🥈 **ACPC (Gujarat) State Rank**: 7th overall (GTU affiliated)
 - 🥇 **Academic Excellence**, 1st Rank (Diploma)
-- 🥈 **ACPC Rank**, 7th Rank (GTU) 
 - ⚡ **Gen AI Academy Certification** by Google Cloud & Hack2Skill  
 - 👩‍💻 **50+ Open Source Contributions** on GitHub  
 
