@@ -116,6 +116,7 @@
 <p align="center">
   <a href="https://linkedin.com/in/simran-shaikh-39207a23b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"></a>
   <a href="https://github.com/SimranShaikh20"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"></a>
+  <a href="https://dev.to/simranshaikh20_50"><img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to"></a>
   <a href="mailto:shaikhsimran20.2003@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"></a>
 </p>
 
