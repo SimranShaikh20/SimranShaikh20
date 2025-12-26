@@ -44,6 +44,7 @@
 
 ## 🚀 Featured Projects
 
+- [**Multi-Agent Code Review System**](https://github.com/SimranShaikh20/Multi-Agent-Code-Review-System) — 🏆 Agentic PostgreSQL Challenge Winner | 4x faster parallel code analysis using TigerDB's zero-copy forks
 - [**Support Agent Automation**](#) — Zapier + AI-Powered WhatsApp API assistant for handling student & learner queries  
 - [**SEO InsightHub**](https://github.com/SimranShaikh20/SEO-InsightHub-Powered-by-Agno-AI-Agent-Framework) — AI-driven SEO auditor using Groq LLM and Agno APIs  
 - [**LinkedIn Content Generator**](#) — n8n + Mixtral workflow for automated post generation for professionals  
@@ -91,6 +92,7 @@
 
 ## 🎖 Honors & Certifications
 
+- 🥇 Agentic PostgreSQL Challenge Winner [ Hosted by: [@TigerDB](https://github.com/tigerdb) & [@DEV](https://dev.to)] 
 - 🏅 **Global Agent Hackathon Winner**
 - 🥈 **Bhashathon (IIT Bombay)** — 2nd Place
 - 🥈 **ACPC (Gujarat) State Rank**: 7th overall (GTU affiliated)
