@@ -10,7 +10,7 @@
 
 
 <ul>
-  <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20Showing%20Asia-Australia.png" width="22px"/> Based in <strong>Vadodara, Gujarat, India</strong></li>
+  <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20Showing%20Asia-Australia.png" width="22px"/> Based in <strong> Gujarat, India</strong></li>
   <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/E-Mail.png" width="22px"/> Reach me at: <a href="mailto:shaikhsimran20.2003@gmail.com"><strong>shaikhsimran20.2003@gmail.com</strong></a></li>
   <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Tear-Off%20Calendar.png" width="22px"/> <strong>B.E. Computer Science (MSU, CGPA: 8.21)</strong></li>
   <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Student.png" width="22px"/> <strong>Diploma (Computer Engineering, CGPA: 9.88)</strong></li>
