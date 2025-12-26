@@ -92,7 +92,7 @@
 
 ## 🎖 Honors & Certifications
 
-- 🥇 Agentic PostgreSQL Challenge Winner [ Hosted by: [@TigerDB](https://github.com/tigerdb) & [@DEV](https://dev.to)] 
+- 🥇 **Agentic PostgreSQL Challenge Winner** [ Hosted by: [@TigerDB](https://github.com/tigerdb) & [@DEV](https://dev.to)] 
 - 🏅 **Global Agent Hackathon Winner**
 - 🥈 **Bhashathon (IIT Bombay)** — 2nd Place
 - 🥈 **ACPC (Gujarat) State Rank**: 7th overall (GTU affiliated)
