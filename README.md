@@ -1,5 +1,3 @@
-
-
 <h1>
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Wave" width="30px"/>
   Hi, I'm <a href="https://linkedin.com/in/simran-shaikh-39207a23b/">Simran Shaikh</a>!
@@ -28,6 +26,11 @@
 ---
 
 ## 💼 Experience
+
+### **AI / ML Intern — Atlas Copco** *(Jan 2025 – Present)* 📍 Pune, On-site
+- **Deep Learning Models**: Implementing ResNet-based transfer learning for industrial defect detection, achieving **90%+** classification accuracy through fine-tuning and hyperparameter optimization using **PyTorch**
+- **Autoencoder Development**: Developed autoencoder models for anomaly detection, reducing feature dimensionality by **65%** while maintaining reconstruction quality for efficient defect identification
+- **Data Augmentation**: Engineered automated augmentation pipelines using **tqdm**, expanding training datasets by **3x** through geometric transformations and synthetic generation, reducing labeling errors by **30%**
 
 ### **Web Scraping Intern — Keshav Encon** *(Jun 2024 – Feb 2025)*  
 - Designed scalable scraping workflows using **Python**, **BeautifulSoup**, and **Scrapy**  
@@ -72,6 +75,8 @@
 ![RAG](https://img.shields.io/badge/RAG-FF6F61)
 ![Mixtral](https://img.shields.io/badge/Mixtral-A020F0)
 ![CNN/RNN](https://img.shields.io/badge/Neural_Nets-3498DB)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch)
+![ResNet](https://img.shields.io/badge/ResNet-Transfer_Learning-orange)
 
 ### ☁️ Cloud, DevOps & No-code  
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?logo=googlecloud)
