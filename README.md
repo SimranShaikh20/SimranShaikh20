@@ -38,11 +38,11 @@
 
 ## 💼 Experience
 
-### **AI / ML Intern — Atlas Copco** *(Jan 2025 – Present)* 📍 Pune
+### **AI / ML Intern — Atlas Copco** *(Jan 2025 – Present)* 📍 Pune, On-site
 
-- Built **ResNet-based transfer learning** models for industrial defect detection — **90%+ classification accuracy** using PyTorch with fine-tuning and hyperparameter optimization
-- Developed **autoencoder models** for anomaly detection, reducing feature dimensionality by **65%** while preserving reconstruction quality
-- Engineered automated **data augmentation pipelines** (tqdm) that expanded training datasets **3x**, reducing labeling errors by **30%**
+- **Deep Learning Models**: Implemented **ResNet-based transfer learning** for industrial defect detection, achieving **90%+** classification accuracy through fine-tuning and hyperparameter optimization using **PyTorch**
+- **Autoencoder Development**: Developed **autoencoder models** for anomaly detection, reducing feature dimensionality by **65%** while maintaining reconstruction quality for efficient defect identification
+- **Data Augmentation**: Engineered automated augmentation pipelines using **tqdm**, expanding training datasets by **3x** through geometric transformations and synthetic generation, reducing labeling errors by **30%**
 
 ### **Web Scraping Intern — Keshav Encon** *(Jun 2024 – Feb 2025)*
 
