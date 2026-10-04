@@ -4,7 +4,7 @@
   <img align="right" src="https://komarev.com/ghpvc/?username=SimranShaikh20&label=Profile+Views&color=0e75b6&style=flat" alt="Profile views"/>
 </h1>
 
-<h3 align="center">🤖 Generative AI & ML Engineer · Multi-Agent Systems · RAG Pipelines · LLM Orchestration</h3>
+<h3 align="center">🤖 GenAI / LLM Engineer · Agentic Systems · RAG · Knowledge Graphs</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/simran-shaikh-39207a23b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -17,40 +17,25 @@
 
 ---
 
-<!-- SEO KEYWORDS (visible to crawlers, minimal visual noise) -->
+<!-- SEO KEYWORDS -->
 <!--
-Simran Shaikh | Generative AI Engineer | AI/ML Engineer | LLM Developer | Multi-Agent Systems | RAG Pipeline Engineer
-LangChain LangGraph LlamaIndex Agno CrewAI | OpenAI Claude Groq Gemini API | PyTorch Computer Vision
-AI Automation Engineer | Agentic AI | Prompt Engineering | Fine-Tuning | Vector Databases | FAISS Pinecone ChromaDB
-Open to work: AI Engineer · ML Engineer · Gen AI Developer · LLM Engineer · AI Automation Engineer · Data Scientist
+Simran Shaikh | GenAI Engineer | LLM Engineer | Forward Deployed Engineer | Agentic Systems | RAG | Knowledge Graphs | MCP
+LangChain LangGraph MCP | OpenAI Anthropic Claude GPT-5 Gemini Groq | PyTorch | Azure | FastAPI | LangSmith Langfuse | Neo4j | BM25
+Open to work: GenAI Engineer · LLM Engineer · Forward Deployed Engineer
 India | Pune | Gujarat | MSU Vadodara | Remote friendly
 -->
 
 ## 🧠 Who I Am — In 30 Seconds
 
 ```text
-🎯 Role        →  Generative AI & ML Engineer (Open to AI/ML · GenAI · Automation roles)
+🎯 Role        →  GenAI / LLM Engineer — Agentic Systems, RAG & Knowledge Graphs
 📍 Location    →  Pune, India (Remote-friendly)
-🎓 Education   →  B.E. Computer Science, MSU Vadodara — CGPA 8.24
-🏆 Wins        →  3× Hackathon Winner (Global Agent Hackathon · Agentic Postgres · IIT Bombay)
-⚡ Superpower  →  Building multi-agent LLM systems that ship to production, not just demos
-🔬 Research    →  Published 12-class industrial defect dataset on Kaggle (ORCID registered)
+🎓 Education   →  B.E. Computer Science, MSU Vadodara — CGPA 8.24 (2023–2026)
+🏆 Wins        →  3× Hackathon Winner (Global Agent Hackathon · Agentic Postgres · Bhashathon IIT Bombay)
+⚡ Superpower  →  Building agentic LLM systems that ship to production, not just demos
+🔬 Research    →  Published 12-class casting defect dataset on Kaggle (ORCID registered)
 🌍 Open Source →  Top 5% of 7,000+ contributors globally — GSSoC Extended 2024
 ```
-
----
-
-## 🚀 What I Build
-
-> **Production-grade AI systems** — multi-agent orchestration, RAG pipelines, LLM integrations, and computer vision models that operate under real constraints.
-
-| Domain | What I've Shipped |
-|---|---|
-| 🤖 **Agentic AI** | 6-agent parallel research system · 4-agent code review platform · conversational deployment agent |
-| 🔍 **RAG & LLM** | Semantic retrieval pipelines · dynamic prompt engineering · structured output agents |
-| 👁️ **Computer Vision** | Industrial defect detection (ResNet + EfficientNet, 90%+ acc) · autoencoder anomaly detection |
-| ⚙️ **Automation** | n8n · Zapier · MCP · webhook-driven event pipelines · REST API chaining |
-| 📊 **Data** | ETL pipelines · 100K+ record scraping at scale · CI/CD-scheduled workflows |
 
 ---
 
@@ -59,150 +44,105 @@ India | Pune | Gujarat | MSU Vadodara | Remote friendly
 | 🏆 | Award | Details |
 |---|---|---|
 | 🥇 | **Global Agent Hackathon — 1st Place** | Agentic LLM system competing globally |
-| 🥇 | **Agentic PostgreSQL Challenge — 1st Place** | Hosted by TigerDB & DEV Community |
+| 🥇 | **Agentic Postgres Challenge — 1st Place** | Hosted by TigerDB & DEV Community |
 | 🥈 | **Bhashathon — IIT Bombay — 2nd Place** | NLP & language AI competition |
-| 🥇 | **1st Rank — GTU Diploma** | Academic Excellence Certificate |
-| 🥈 | **ACPC Gujarat State Rank: 7th** | GTU affiliated competitive programming |
-| ⚡ | **GSSoC Extended — Top 5% of 7,000+** | Pull Shark ×2 · Quickdraw · Starstruck |
-| 🎓 | **Gen AI Academy Certification** | Google Cloud & Hack2Skill |
-| 🔬 | **Published Kaggle Dataset (ORCID)** | 12-class casting defect detection benchmark |
+| 🎓 | **1st Rank Certificate — GTU** | Academic excellence |
+| 🎓 | **Certifications** | Gen AI Academy (Google Cloud) · Claude 101 & AI Fluency (Anthropic) |
+| 🔬 | **Publication** | Casting Defect Detection Dataset (12-Class) · ORCID: [0009-0002-2854-8468](https://orcid.org/0009-0002-2854-8468) |
 
 ---
 
 ## 🔥 Featured Projects
 
-### 🧠 [MindMesh AI](https://github.com/SimranShaikh20/MindMesh-AI) — 6-Agent Parallel Research System
-> `React` `TypeScript` `Gemini 2.5 Flash/Pro` `Supabase Edge Functions`
+### 🛡️ SentinelRAG — Production-Hardened RAG API with Prompt-Injection Defense
+> `Python` `FastAPI` `LangChain` `Redis` `LangSmith` · 2025
 
-Two-phase parallel LLM architecture: **Phase 1** runs Research + Pro/Con Advocate agents via **Gemini 2.5 Flash**; **Phase 2** runs Bias Checker + Fact Verifier via **Gemini 2.5 Pro**; Synthesizer delivers confidence-scored output with real-time streaming.
-**3–5s analysis vs 20s+ sequential** · [🌐 Live Demo](https://mind-mesh-ai-two.vercel.app/)
+FastAPI RAG microservice with an **instruction-hierarchy guardrail blocking 95%+ prompt-injection attempts** and circuit-breaker fallback; full tracing/eval via LangSmith. Cut **p95 latency 45% (2.1s → 1.15s)** and **tokens/request 35%** via caching/streaming, scaling to **50+ req/sec**.
+
+---
+
+### 🔌 KnowledgeBase MCP Server — Hierarchical Retrieval on the Model Context Protocol
+> `Python` `MCP SDK` `BM25Plus` · 2026
+
+MCP server exposing document indexing and search as agent-callable tools, with **BM25Plus-ranked retrieval** and **parent→child category-prefix scoping** over a hierarchical taxonomy; fully offline with no model downloads. Caught and fixed a classic-BM25 zero-IDF edge case on small corpora via a **6-test pytest suite (6/6 passing)**, and shipped a working Claude Desktop integration config.
 
 ---
 
 ### 🤖 [Multi-Agent Code Review System](https://github.com/SimranShaikh20/Multi-Agent-Code-Review-System) — 🥇 Hackathon Winner
-> `TypeScript` `React` `PostgreSQL` `TigerDB` `LLM Agents`
+> `TypeScript` `React` `PostgreSQL` `TigerDB` `LLM Agents` · 2025
 
-4 specialised AI agents (Quality · Security · Performance · Docs) running **in parallel** with human-in-the-loop review gates via TigerDB zero-copy forks. **4× faster analysis (40s → 10s)**, zero storage overhead.
-**1st place — Agentic PostgreSQL Challenge**
-
----
-
-### 🔍 [SEO InsightHub](https://github.com/SimranShaikh20/SEO-InsightHub-Powered-by-Agno-AI-Agent-Framework) — Production GenAI Agent ⭐ 20 Stars
-> `Python` `Agno` `Groq LLM` `FireCrawl` `Exa API` `Streamlit`
-
-Autonomous SEO audit agent that crawls sites, runs RAG-powered technical audits, keyword gap analysis, and competitor benchmarking — delivering GDPR-compliant dashboards. **+20% client organic performance.**
-[🌐 Live Demo](https://seo-insightapp.streamlit.app/)
-
----
-
-### 👁️ [AI-Powered Industrial Vision Pipeline](https://github.com/SimranShaikh20/Defect-Detection-Project)
-> `Python` `PyTorch` `OpenCV` `ResNet-50` `EfficientNet-B3` `NumPy`
-
-End-to-end defect detection system: **500+ images/min** · ResNet-50 + EfficientNet-B3 ensemble · MixUp/CutMix augmentation · Test-Time Augmentation · **90%+ accuracy** across 12 defect classes · training data expanded **3×**.
-
----
-
-### 📧 [Cold Mail Generator — RAG Outreach Agent](https://github.com/SimranShaikh20/Cold-Email-Generator)
-> `Python` `LangChain` `FAISS` `Groq LLM` `Scrapy` `Streamlit`
-
-Agentic pipeline: scrapes job listings → embeds portfolio into **FAISS vector store** → RAG + dynamic prompt engineering → hyper-personalised cold emails. **+25% recruiter response rate.**
-
----
-
-### 🤝 Support Agent Automation
-> `Zapier` `WhatsApp API` `LLM` `n8n`
-
-End-to-end WhatsApp automation agent handling student queries autonomously — no human in the loop for routine support flows. FAQ resolution · escalation routing · session management.
-
----
-
-### 📝 [LinkedIn Content Generator](https://github.com/SimranShaikh20/LinkedIn-Content-Generator)
-> `TypeScript` `n8n` `Mixtral` `Webhook`
-
-n8n + Mixtral workflow for automated professional LinkedIn post generation — prompt in, polished SEO-optimised content out.
+4 autonomous AI agents (Quality · Security · Performance · Documentation) running **in parallel** with human-in-the-loop gates via TigerDB zero-copy forks. **4× faster analysis (40s → 10s)**. **1st place — Agentic Postgres Challenge.**
 
 ---
 
 ## 🧠 Technical Skills
 
-### 🤖 Generative AI & LLM
+### 🤖 Agentic Systems & RAG
 ![LangChain](https://img.shields.io/badge/LangChain-0F4C81?style=flat-square)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1a1a2e?style=flat-square)
-![LlamaIndex](https://img.shields.io/badge/LlamaIndex-6C3483?style=flat-square)
-![Agno](https://img.shields.io/badge/Agno-1ABC9C?style=flat-square)
-![RAG](https://img.shields.io/badge/RAG_Pipelines-FF6F61?style=flat-square)
-![Multi-Agent](https://img.shields.io/badge/Multi--Agent_Systems-8E44AD?style=flat-square)
+![MCP](https://img.shields.io/badge/MCP-4A90D9?style=flat-square)
+![Multi-Agent](https://img.shields.io/badge/Multi--Agent_Orchestration-8E44AD?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG-FF6F61?style=flat-square)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-9B59B6?style=flat-square)
-![Function Calling](https://img.shields.io/badge/Function_Calling-2C3E50?style=flat-square)
-![Structured Outputs](https://img.shields.io/badge/Structured_Outputs-34495E?style=flat-square)
-![Fine-Tuning](https://img.shields.io/badge/Fine--Tuning_PEFT/LoRA-C0392B?style=flat-square)
+![Agent Evaluation](https://img.shields.io/badge/Agent_Evaluation_&_Guardrails-C0392B?style=flat-square)
 
-### 🔌 LLM APIs & Models
-![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai)
-![Claude](https://img.shields.io/badge/Claude_API-CC785C?style=flat-square)
-![Gemini](https://img.shields.io/badge/Gemini_API-4285F4?style=flat-square&logo=google)
-![Groq](https://img.shields.io/badge/Groq_API-00BFFF?style=flat-square)
-![LLaMA](https://img.shields.io/badge/LLaMA-800080?style=flat-square&logo=meta)
-![Mixtral](https://img.shields.io/badge/Mixtral-A020F0?style=flat-square)
-![HuggingFace](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface)
-
-### 🗄️ Vector Stores & Embeddings
-![FAISS](https://img.shields.io/badge/FAISS-003865?style=flat-square)
-![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=flat-square)
-![Supabase](https://img.shields.io/badge/Supabase_Vector-3ECF8E?style=flat-square&logo=supabase)
+### 🔌 LLM APIs, Retrieval & Knowledge Infra
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai)
+![Claude](https://img.shields.io/badge/Anthropic_Claude-CC785C?style=flat-square)
+![GPT-5](https://img.shields.io/badge/GPT--5-10A37F?style=flat-square)
+![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google)
+![Groq](https://img.shields.io/badge/Groq-00BFFF?style=flat-square)
+![Vector DBs](https://img.shields.io/badge/Vector_Databases-003865?style=flat-square)
+![Knowledge Graphs](https://img.shields.io/badge/Knowledge_Graphs-008CC1?style=flat-square)
 
 ### 🧪 ML & Deep Learning
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv)
-![ResNet](https://img.shields.io/badge/ResNet_Transfer_Learning-orange?style=flat-square)
-![EfficientNet](https://img.shields.io/badge/EfficientNet-FF8C00?style=flat-square)
-![CNN/RNN](https://img.shields.io/badge/CNN/RNN-3498DB?style=flat-square)
+![CNNs](https://img.shields.io/badge/CNNs-3498DB?style=flat-square)
+![ResNet/EfficientNet](https://img.shields.io/badge/ResNet_/_EfficientNet_Transfer_Learning-FF8C00?style=flat-square)
 ![Autoencoders](https://img.shields.io/badge/Autoencoders-16A085?style=flat-square)
+![XGBoost](https://img.shields.io/badge/XGBoost-2E7D32?style=flat-square)
+![Feature Engineering](https://img.shields.io/badge/Feature_Engineering-5D6D7E?style=flat-square)
+![Model Evaluation](https://img.shields.io/badge/Model_Evaluation_(P/R/F1/ROC--AUC)-34495E?style=flat-square)
 
-### ⚙️ Automation & Integration
-![n8n](https://img.shields.io/badge/n8n-2E7D32?style=flat-square&logo=n8n)
-![Zapier](https://img.shields.io/badge/Zapier-EA580C?style=flat-square&logo=zapier)
-![MCP](https://img.shields.io/badge/MCP_Protocol-4A90D9?style=flat-square)
-![Webhook](https://img.shields.io/badge/Webhook_Integration-6C3483?style=flat-square)
-![REST APIs](https://img.shields.io/badge/REST_APIs-009688?style=flat-square)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker)
-![CI/CD](https://img.shields.io/badge/CI/CD_GitHub_Actions-2088FF?style=flat-square&logo=githubactions)
-
-### 💻 Programming & Databases
+### ⚙️ Backend & Infra
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow)
+![Azure AD OAuth2](https://img.shields.io/badge/Azure_AD_OAuth2-0078D4?style=flat-square&logo=microsoftazure)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure)
 
 ---
 
 ## 💼 Experience
 
-### 🏭 AI / ML Intern — [Atlas Copco](https://www.atlascopco.com/) *(Jan 2026 – Present)* · Pune, On-site
+### 🏭 AI / ML Engineer — [Atlas Copco Group](https://www.atlascopco.com/) *(Jan 2026 – Present)* · Pune, On-site
 
-- **LLM Automation**: Built a Python CLI agent chaining **10+ REST APIs** (Azure AD OAuth2) using function-calling patterns, replacing a 15-step manual workflow with one command — **80% faster onboarding**
-- **Computer Vision**: Implemented **ResNet transfer learning** + **autoencoder anomaly detection** in PyTorch — **90%+ accuracy**, feature dimensionality reduced **65%**
-- **Data Pipeline**: Processed **10,000+ industrial images** through automated augmentation pipelines; expanded training data **3×**, improved model accuracy **15%** across 5 product categories
+- **End-to-End ML Pipeline**: Owned the full lifecycle of an industrial defect-detection system — data ingestion, augmentation, PyTorch model training, Azure-hosted deployment, and post-deployment monitoring — taking it from prototype to a production-owned service
+- **Secure Agentic Integration**: Designed a Python function-calling agent with Azure AD OAuth2-authenticated service-to-service integration, orchestrating **10+ REST APIs** to replace a 15-step manual workflow and **cut onboarding time 80%**
+- **Casting Defect Classification**: Trained ResNet transfer-learning and autoencoder models in PyTorch and deployed to production to flag manufacturing defects pre-shipment — **80%+ accuracy**, replacing manual visual inspection on the line and reducing missed-defect escapes
+- **HTS/HSN Tariff Classification System**: Built a multi-agent SupervisorAgent + Chapter84Agent classifier on BM25 parent→child code-prefix retrieval and Azure OpenAI, paired with a **Neo4j tariff-hierarchy knowledge graph** for GRI-based disambiguation; instrumented full tracing and cost/latency monitoring with **Langfuse**, and benchmarked **GPT-5, Claude Opus, and Claude Sonnet across 100+ industrial line items**
+- **Data Pipeline**: Engineered SQL-backed image pipelines on Azure infra over **10,000+ samples**, expanding training data **3×** and lifting accuracy **15%**
 
-### 🕷️ Web Scraping & Automation Intern — Keshav Encon *(Jun 2024 – Feb 2025)* · Remote
+### 🕷️ Web Scraping & AI Automation Intern — Keshav Encon *(Jun 2024 – Feb 2025)* · Remote
 
-- Built **5+ event-driven scraping pipelines** (Scrapy · BeautifulSoup · Pandas) processing **100,000+ records**
-- Docker-containerised CI/CD-scheduled workflows → **60% reduction** in manual collection, **10+ hrs/week** saved
-- Integrated REST APIs with XPath/CSS parsing and fault-tolerant retry middleware
+- **Pipelines**: Designed **5+ scraping pipelines** (Scrapy · BeautifulSoup · Pandas · PostgreSQL) processing **100,000+ records** with fault-tolerant retry middleware
+- **Automation**: Deployed Docker, CI/CD-scheduled workflows cutting manual data collection **60%**, saving **10+ hrs/week**
 
-### 🌍 Open Source Contributor — GSSoC Extended *(Oct – Nov 2024)* · Remote
+### 🌍 Open Source Contributor — GirlScript Summer of Code (GSSoC Extended) *(Oct – Nov 2024)* · Remote
 
-- **Top 5% of 7,000+ contributors globally** · Pull Shark ×2 · Quickdraw · Starstruck achievements
-- Merged **20+ PRs** across LLM tooling and agent framework repositories
-- Reviewed **30+ peer PRs**, mentoring contributors and reducing review cycle time **25%**
+- **Top 5% of 7,000+ contributors globally** — merged **20+ PRs** across LLM tooling and GenAI repos; reviewed **30+ peer PRs**, cutting review cycle time **25%**
+
+---
+
+## 🎓 Education
+
+| Institution | Degree | CGPA | Years |
+|---|---|---|---|
+| Maharaja Sayajirao University (MSU) Vadodara, Gujarat | B.E. Computer Science | 8.24 | 2023 – 2026 |
+| Shri K.J. Polytechnic Bharuch, Gujarat | Diploma Computer Engineering (University Rank 1) | 9.88 | 2020 – 2023 |
 
 ---
 
@@ -222,7 +162,6 @@ n8n + Mixtral workflow for automated professional LinkedIn post generation — p
 ## 🔬 Publications & Datasets
 
 📦 **[12-Class Casting Defect Detection Dataset](https://www.kaggle.com/simranshaikh)** — Kaggle
-> The **only publicly available multi-class** extension of the binary casting defect benchmark. Paired with a ResNet-50 + EfficientNet-B3 ensemble using MixUp/CutMix augmentation and TTA — **90%+ accuracy** across all 12 defect classes.
 > ORCID: [0009-0002-2854-8468](https://orcid.org/0009-0002-2854-8468)
 
 ---
@@ -239,7 +178,7 @@ n8n + Mixtral workflow for automated professional LinkedIn post generation — p
 
 <div align="center">
   <sub>
-    <!-- SEO: Simran Shaikh · AI Engineer · ML Engineer · GenAI Developer · LLM Engineer · Multi-Agent Systems · RAG Pipelines · Agentic AI · LangChain · LangGraph · PyTorch · Computer Vision · India · Open to work -->
-    Open to <strong>AI/ML · Generative AI · AI Automation · LLM Engineering</strong> roles · India & Remote
+    <!-- SEO: Simran Shaikh · GenAI Engineer · LLM Engineer · Agentic Systems · RAG · Knowledge Graphs · MCP · LangChain · LangGraph · PyTorch · India · Open to work -->
+    Open to <strong>GenAI · LLM Engineering · Forward Deployed Engineer</strong> roles · India & Remote
   </sub>
 </div>
